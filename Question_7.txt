@@ -1,0 +1,13 @@
+REGISTRATION NUMBER 031 / 222041
+
+Question 7.i.
+The different entities include:
+1. TV_Company entity
+2. Actors entity
+3. Directors entity
+4. TV_Series entity
+5. Episodes entity
+
+part b.
+i. Primary key: This refers to a candidate key that has distinguished values.
+ii. Foreign Key: This refers to a key that relates information from another  to another entity.

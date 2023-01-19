@@ -1,0 +1,30 @@
+REGISTRATION NUMBER 031 / 222041
+Section A 
+
+#1
+i) Database: This refers to a collection of related entities .
+ii) Database Management System: This refers to software that stores, retrieves and manages a database during its execution.
+iii) SQL: This refers to a Structured Query Language that is used to work with databases.
+iv) Foreign key: This refers to a key that relates information from an entity to another entity.
+v) Primary key: This is a candidate key that has distinguished values that represent an entity.
+
+#2
+A database helps in proper management of finances in a business which protects against losses.
+A database eases the work of data entrant and save time.
+A database is used to store information that is not meant to be viewed by the public hence protection.
+A database helps to keep information for a long time.
+A database helps to keep track of the business or organisation and its progress.
+
+#3
+i) Oracle
+ii) Mongo Database
+iii) PostgreSQL
+iv) MySQL
+v) 
+
+#4
+i. Cyclic: This refers to a relationship where an entity khas a relationship within itself.
+ii. Binary: This is a relationship that occurs between two entities.
+iii. Tertiary: This the relationship that happens among three entities.
+iv. Quaternary: This a relationship type that happens among four or more entities.
+
